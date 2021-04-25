@@ -1,20 +1,18 @@
-### Hi there 👋
+## Hi there, I'm  [Yunsur !](https://yunsur.com/) 👋👋👋👋
 
-<!--
-**yunsur/yunsur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/yunsur/count.svg" />
+</p>
 
-Here are some ideas to get you started:
+> **The harder you work, the luckier you will be
+**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
 
-### GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=yunsur&hide_title=true&show_icons=true&icon_color=007aff&text_color=333&bg_color=fff" />
+<a href="https://github.com/yunsur">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=yunsur&show_icons=true&include_all_commits=true&theme=radical&hide=contribs" alt="Anurag's github stats" />
+</a>
+<a href="https://github.com/yunsur">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=yunsur&layout=compact&theme=radical" />
+</a>

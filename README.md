@@ -6,7 +6,6 @@
 </p>
 
 > **The harder you work, the luckier you will be
-**
 
 ## About Me
 
